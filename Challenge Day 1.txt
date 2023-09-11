@@ -1,0 +1,6 @@
+Hallo,  Manuel
+hier wollen wir files mergen
+
+ich push die zeile <-- 
+jetzt musst du das file bearbeiten und pushen und ich änder es auch in der zwischenzeit
+
